@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Romeu
-- 👀 I’m interested in coding, music, games and not dying
-- 🌱 I’m currently learning to use a computer at all
+- 👀 I’m interested in coding, music and games
+- 🌱 I’m currently learning speak
 - 💞️ I love my wife (girlfriend but we're locked in like that)
 - 📫 I have gmail
 - 😄 Pronouns: he/him
