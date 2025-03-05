@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Romeu
 - 👀 I’m interested in coding, music and games
-- 🌱 I’m currently learning speak
-- 💞️ I love my wife (girlfriend but we're locked in like that)
-- 📫 I have gmail
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: idk
+- 🌱 I’m currently learning C
+- 📫 romeutalina@gmail.com
 
 <!---
 RomeuTalina/RomeuTalina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
